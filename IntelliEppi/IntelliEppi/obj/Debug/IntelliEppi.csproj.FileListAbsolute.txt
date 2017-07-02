@@ -1,0 +1,14 @@
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\bin\Debug\IntelliEppi.exe.config
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\bin\Debug\IntelliEppi.exe
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\bin\Debug\IntelliEppi.pdb
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.csprojResolveAssemblyReference.cache
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.frmMain.resources
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.Properties.Resources.resources
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.csproj.GenerateResource.Cache
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.exe
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.pdb
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.frmTracker.resources
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\bin\Debug\DataMatrix.net.dll
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.frmSplash.resources
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.frmGenerator.resources
+C:\Zeeshan\Visual Studio Project\IntelliEppi\IntelliEppi\IntelliEppi\obj\Debug\IntelliEppi.frmDataCenter.resources
