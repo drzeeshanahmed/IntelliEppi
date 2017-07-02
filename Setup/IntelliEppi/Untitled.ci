@@ -1,0 +1,91 @@
+<*project
+      version = 4 civer = "Free v4.14.5" winver = "2.8/6.2.9200" > 
+   <output> C:\Zeeshan\Setups\IntelliEppi</>
+   <exename> IntelliEppi.exe</>
+   <digitsign> </>
+   <appname> IntelliEppi</>
+   <password> </>
+   <addlang> </>
+   <icon> Default</>
+   <selfextr> 1</>
+   <voltype> nolimit</>
+   <volsize> </>
+   <volpattern> disk%i.pak</>
+   <load> </>
+   <loadtime> 1000</>
+   <checktype> admin</>
+   <chkname> </>
+   <chkmsg> </>
+   <dlgfont> Verdana,8</>
+   <lang> english</>
+   <theme> Color</>
+   <iface> </>
+   <leftlogo> C:\Zeeshan\Setups\IntelliEppi\Files\lipid_bar_vt_bmp.bmp</>
+   <logo> C:\Zeeshan\Setups\IntelliEppi\Files\lipid_logo_bmp.bmp</>
+   <vb> </>
+   <dao> </>
+   <background> 0</>
+   <dlgwelcome> 1</>
+   <dlgreadme> C:\Zeeshan\Setups\IntelliEppi\Files\README.TXT</>
+   <dlglic> C:\Zeeshan\Setups\IntelliEppi\Files\LICENSE.TXT</>
+   <dlgcustpath> </>
+   <dlgenfpath> </>
+   <dlgsavepath> </>
+   <dlgautoprog> 1</>
+   <dlgfinish> 1</>
+   <comptype> defnorm</>
+   <solid> </>
+   <srcfolder> </>
+   <ifexist> overnewer</>
+   <runafter> </>
+   <runconfirm> 0</>
+   <uninclude> 1</>
+   <unicon> Uninstall</>
+   <unshortcut> 1</>
+   <unrun> </>
+   <silent> 0</>
+   <unfeed> </>
+   <unautoclose> 0</>
+   <unfinish> 0</>
+   <bl> </>
+   <blurl> </>
+   <bghead> C:\Zeeshan\Setups\IntelliEppi\Files\lipid_bar_hz.bmp</>
+   <bgfoot> C:\Zeeshan\Setups\IntelliEppi\Files\lipid_bar_hz.bmp</> 
+   <bgback> </>
+   <files listview >
+      <_><src>C:\Zeeshan\Setups\IntelliEppi\Files\IntelliEppi.exe</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+<_><src>C:\Zeeshan\Setups\IntelliEppi\Files\DataMatrix.net.dll</><dest>inst</><custom></><ifexist>overnewer</><recurs>0</></>
+
+   </files>
+   <runx listview >
+      
+   </runx>
+   <registry listview >
+      
+   </registry>
+   <shcut listview >
+      <_><shpath>qlaunch</><shname>IntelliEppi</><tarpath>inst</><tarname>IntelliEppi.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>IntelliEppi</><tarpath>inst</><tarname>IntelliEppi.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>desk</><shname>IntelliEppi</><tarpath>inst</><tarname>IntelliEppi.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+
+   </shcut>
+   <ini listview >
+      
+   </ini>
+   <copy listview >
+      
+   </copy>
+   <activex listview >
+      
+   </activex>
+   <font listview >
+      
+   </font>
+   <ext listview >
+      
+   </ext>
+   <mreg listview >
+      
+   </mreg>
+   <macros> </>
+</project>

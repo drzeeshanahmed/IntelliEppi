@@ -1,0 +1,29 @@
+<logdata>
+<_  time = '21.06.2016 22:58:04' >Processing C:\Zeeshan\Setups\IntelliEppi\Untitled.ci</>
+<_   >Converting the project...</>
+<_   >Generating sources...</>
+<_   >Compiling Gentee scripts...</>
+<_   >Optimizing...</>
+<_   >Input size: 116025 bytes</>
+<_   >Output size: 80144 bytes</>
+<_   >Making C:\Zeeshan\Setups\IntelliEppi\IntelliEppi.exe...</>
+<_   >Adding temporary files to EXE</>
+<_ ratio = 0.96% time = '21.06.2016 22:51:07' size = 25446>C:\Zeeshan\Setups\IntelliEppi\Files\lipid_logo_bmp.bmp</>
+<_ ratio = 70.07% time = '21.06.2016 22:49:37' size = 645>C:\Zeeshan\Setups\IntelliEppi\Files\README.TXT</>
+<_ ratio = 59.19% time = '21.06.2016 22:47:31' size = 1409>C:\Zeeshan\Setups\IntelliEppi\Files\LICENSE.TXT</>
+<_ ratio = 0.31% time = '21.06.2016 22:50:43' size = 85854>C:\Zeeshan\Setups\IntelliEppi\Files\lipid_bar_vt_bmp.bmp</>
+<_ ratio = 42.24% time = '21.06.2016 22:58:05' size = 3615>C:\Users\zeeshan\AppData\Local\Temp\gentee00\english.lng</>
+<_   >Adding resource files to EXE</>
+<_   size = 101888>File C:\Zeeshan\Setups\IntelliEppi\IntelliEppi.exe has been created successfully</>
+<_   >Making C:\Users\zeeshan\AppData\Local\Temp\gentee00\uninstall.exe...</>
+<_   >Adding resource files to EXE</>
+<_   size = 103424>File C:\Users\zeeshan\AppData\Local\Temp\gentee00\uninstall.exe has been created successfully</>
+<_ ratio = 1.13%  size = 103424>Packing Uninstall Exe</>
+<_   >Packing files</>
+<_   >================================</>
+<_ ratio = 28.68% time = '13.06.2016 12:52:15' size = 196096>C:\Zeeshan\Setups\IntelliEppi\Files\IntelliEppi.exe</>
+<_ ratio = 40.01% time = '24.03.2015 22:19:32' size = 105472>C:\Zeeshan\Setups\IntelliEppi\Files\DataMatrix.net.dll</>
+<_   >================================</>
+<_ ratio = 32.65%  size = 301568>All files (2)</>
+<_  time = '21.06.2016 22:58:09' >Finish Successful</>
+</logdata>

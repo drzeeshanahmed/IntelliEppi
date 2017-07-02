@@ -1,0 +1,33 @@
+IntelliEppi Version: 1
+
+SOFTWARE LICENSE AGREEMENT
+
+LICENSE: IntelliEppi is an open licensed software application for academic research.  
+
+You are allowed to use IntelliEppi for experimental purposes.
+
+You are not allowed to distribute IntelliEppi.
+
+IntelliEppi is Academic Free, IS DISTRIBUTED "AS IS".    
+NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE IT AT YOUR OWN RISK. PROVIDERS WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, AND LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+You are hereby licensed to make any number of backup copies of this free software. You cannot give the copy of the software to anyone or distribute the freeware version of the software.
+
+All copyrights to IntelliEppi are exclusively owned by the authors.
+
+Installing and using IntelliEppi means the acceptance of these terms and conditions of the license. 
+
+If you do not agree with the terms of this license you must remove CreateInstall Free files from your storage devices and cease to use the product.
+
+Please contact <zeeshan@zeeshanahmed.info> if you would like to report bugs, grammar mistakes, or give your opinion about the program. Any comments are welcome.
+
+Contacts:
+
+- Zeeshan AHMED, Ph.D
+The Jackson Laboratory, USA.
+
+- Arthur Neuberger, MPhil.
+University of Cambridge, UK.
+
+- Prof. Thomas Dandekar, MD.
+University of Wuerzburg, Germany.
